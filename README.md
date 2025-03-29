@@ -4,11 +4,29 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
 
-## Credit
+# ADVANCE TXT UPLOADER
 
-🥳 Credit Goes To [Tushar](https://t.me/Tushar0125)
+This repository allows you to upload and process text files efficiently.
 
-  
+## 🚀 Deploy to Google Colab  
+Click the button below to launch this project in Google Colab:  
+
+<a href="https://colab.research.google.com/github/aarav669281/ADVANCE-TXT-UPLOADER/blob/main/readm.py" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Deploy To Google Colab" style="width:150px;"/>
+</a>
+
+## 📌 Features
+- Upload and process text files easily
+- Supports various formats
+- Fast and efficient
+
+## 🔧 Installation
+To run locally, clone the repo and install dependencies:
+```bash
+git clone https://github.com/aarav669281/ADVANCE-TXT-UPLOADER.git
+cd ADVANCE-TXT-UPLOADER
+pip install -r requirements.txt
+
 ## 🔥 Commands
 
 - **`/start`**: ⚡ check bot is alive.
